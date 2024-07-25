@@ -1,0 +1,55 @@
+######################## default configuration ####################
+# Your theme name
+theme: "dot-org-hugo-theme"
+# Title of your website (required).
+title: "Dot Org Theme Demo"
+# Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
+timeZone: "America/New_York"
+
+######################## main menu ####################
+menu:
+    main:
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+      weight: 1
+    - identifier: "services"
+      name: "Services"
+      url: "/services/"
+      weight: 2
+    - identifier: "blog"
+      name: "Blog"
+      url: "/blog/"
+      weight: 3
+
+
+### copyright (markdown can be used) ###
+copyright: "Copyright &copy; {{< current_year >}} Akili Analytics. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+title: "Akili Analytics"
+params:
+  ### calls to action ###
+  main_cta:
+    text: "Contact us"
+    link: "/contact/"
+  footer_cta:
+    text: "Contact us"
+    link: "/contact/"
+  github_edit: "Edit this page on GitHub"
+    
+######################## i18n ####################
+# Auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
+#hasCJKLanguage: true
+# Set default content directory for multilingual
+#contentDir: content/en/
+# Set fallback if international version is not available
+#defaultContentLanguage: en
+# Set the default language as the root rather than in folder i.e. don't use /en/
+defaultContentLanguageInSubdir: false
+
+######################## privacy & speed ####################
+# Enable do not track, no cookies on Video embeds
+privacy:
+  youtube:
+    privacyEnhanced: true
+  vimeo:
+    enableDNT: true
