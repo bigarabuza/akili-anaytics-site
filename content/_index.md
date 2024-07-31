@@ -1,6 +1,6 @@
 ---
 title: Akili Analtyics
-description: This is the demo site for Dot Org Theme. The title description and images front matter is required for meta og content.
+description: Akili Analytics is an analytics consulting company on a mission to transform data into insightful action.
 
 ---
 
