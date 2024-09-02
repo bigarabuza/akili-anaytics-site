@@ -29,7 +29,13 @@
       "span",
       "style",
       "svg",
+      "table",
+      "tbody",
+      "td",
+      "th",
+      "thead",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [
@@ -96,6 +102,7 @@
       "blog",
       "content",
       "data-visualization",
+      "key-findings",
       "our-approach",
       "process-automation",
       "search",
