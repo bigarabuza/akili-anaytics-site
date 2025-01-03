@@ -1,7 +1,7 @@
 ---
 title: "Casting the Spotlight on Shadow IT "
 description: ""
-date: 2024-01-03
+date: 2025-01-03
 author: bigarabuza
 ---
 
