@@ -5,7 +5,7 @@ date: 2025-01-03
 author: bigarabuza
 ---
 
-{{< img src="img/featured.png" alt="shadow IT featured image" >}} 
+![shadow IT featured image](img/featured.png) 
 
 Shadow IT refers to the use of information technology solutions without the knowledge, approval, or oversight of an organization’s IT department. This phenomenon often arises in large organizations where IT departments make well-intentioned decisions regarding applications, infrastructure, and services meant to serve all business units. However, the inherent communication complexities and heterogeneity of large organizations can result in IT solutions that fail to address specific requirements or goals of certain business units. It is in these gaps that Shadow IT emerges, offering tailored solutions to unmet needs. 
 
